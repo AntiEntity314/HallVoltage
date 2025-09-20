@@ -1,0 +1,2 @@
+# HallVoltage
+Calculates Hall voltage 
